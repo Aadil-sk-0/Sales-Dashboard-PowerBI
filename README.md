@@ -31,5 +31,3 @@ Open the `.pbix` file in Power BI Desktop to view the1 dashboard.
 
 ## Note
 This project helped me understand how to clean data and build a simple dashboard with useful insights.
-
-This project helped me understand how to clean data and build a simple dashboard with useful insights.
