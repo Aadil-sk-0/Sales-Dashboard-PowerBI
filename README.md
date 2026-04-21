@@ -8,7 +8,7 @@ I created this project to analyze sales data using Power BI. The goal was to und
 - Fixed data types and handled missing values
 - Created columns like profit margin, year, and month
 - Built an interactive dashboard
-
+- 
 ## Dashboard Preview
 ![Sales Dashboard](dashboard.png)
 
