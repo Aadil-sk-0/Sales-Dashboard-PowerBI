@@ -26,7 +26,7 @@ I created this project to analyze sales data using Power BI. The goal was to und
 
 ## Files
 - Sales_Dashboard.pbix
-- Superstore.csv
+- SuperStoreOrders.csv
 - dashboard.png
 
 ## How to use
