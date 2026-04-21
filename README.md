@@ -4,6 +4,9 @@
 
 I created this project to analyze sales data using Power BI. The goal was to understand sales, profit, and product performance in a simple and clear way.
 
+## Dashboard Preview
+![Sales Dashboard](dashboard.png)
+
 ## What I did
 
 * Cleaned the dataset using Power Query
