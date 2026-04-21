@@ -1,21 +1,21 @@
 # Sales Dashboard (Power BI)
 
 ## About
-I created this project to analyze sales data using Power BI. The goal was to understand sales, profit, and product performance in a simple and clear way.
+This project is a Power BI Sales Dashboard built to analyze sales performance, profit trends, and product insights using a Superstore dataset. The goal is to present data in a simple and interactive way for better business decision-making.
 
 ## What I did
-- Cleaned the dataset using Power Query
-- Fixed data types and handled missing values
-- Created columns like profit margin, year, and month
-- Built an interactive dashboard
-- 
+- Cleaned and transformed the dataset using Power Query  
+- Handled missing values and corrected data types  
+- Created calculated columns like profit margin, year, and month  
+- Designed an interactive dashboard with meaningful insights  
+
 ## Dashboard Preview
 ![Sales Dashboard](dashboard.png)
 
 ## Key Insights
-- West region had highest sales performance  
-- Technology category generated highest profit  
-- Sales trend shows peak during specific months  
+- West region recorded the highest sales performance  
+- Technology category generated the highest profit  
+- Sales trend shows peak performance during specific months  
 
 ## Dashboard Features
 - Total Sales, Total Profit, Total Orders (Card visuals)
@@ -23,6 +23,11 @@ I created this project to analyze sales data using Power BI. The goal was to und
 - Sales by region
 - Top 10 products
 - Filters for Region, Category, and Date
+
+## Tools Used
+- Power BI Desktop  
+- Power Query  
+- Data Visualization  
 
 ## Files
 - Sales_Dashboard.pbix
